@@ -1,0 +1,2 @@
+'<imgsrc="./static/img/img.png"><h2>Genre:Pop</h2><h2>Name:PondeReplay</h2><h2>Author:Rihanna</h2><h3>Date:26.11.2009</h3><buttonclass="save-btn">Savesong</button><buttonclass="like-btn">LikeSong</button><buttonclass="delete-btn">Delete</button>'
+'<imgsrc="./static/img/img.png"><h2>Genre:Pop</h2><h2>Name:PondeReplay</h2><h2>Author:Rihanna</h2><h3>Date:26.11.2009</h3><buttonclass="save-btn">Savesong</button><buttonclass="like-btn">Likesong</button><buttonclass="delete-btn">Delete</button>'
